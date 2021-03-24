@@ -102,4 +102,6 @@ ls -al
 *show current directory*
 pwd
 
+docker package
+
 
